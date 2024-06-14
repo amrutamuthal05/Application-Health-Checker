@@ -1,7 +1,6 @@
 #!/bin/bash
 
 # Configuration
-APP_URL="http://Health-check-system.com"
 CHECK_INTERVAL=60  # Interval between checks in seconds
 RETRY_COUNT=3      # Number of retries before marking the application as down
 RETRY_INTERVAL=5   # Interval between retries in seconds
